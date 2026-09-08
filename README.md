@@ -11,12 +11,12 @@
   [Link para o protótipo interativo](https://design.penpot.app/#/view?file-id=81f57451-85cc-819d-8008-7e34b0f6c059&page-id=f84cb082-23a2-8094-8008-0fbeb586e89a&section=interactions&index=0&share-id=3be9e5e1-190f-8090-8008-7e3c4e1195c7)
 
 ## Contribuidores
-- André Silva Coutinho
-- Brayan Piero Correia Reis
-- Cauã Soares Ferreira
-- John Igor Gomes Rocha
+- [André Silva Coutinho](https://github.com/andrecoutinho491)
+- [Brayan Piero Correia Reis](https://github.com/brayanreis72)
+- [Cauã Soares Ferreira](https://github.com/caua13g)
+- [John Igor Gomes Rocha](https://github.com/Johnrochag)
 - [Kauã Felipe Souza Rezende](https://github.com/kafe-pro)
-- Lucas de Souza Barbosa
+- [Lucas de Souza Barbosa](https://github.com/LucasdeSouzab)
 - Samira Martins Tolentino D’Amato
 - San-diego Maciel Martins
 
