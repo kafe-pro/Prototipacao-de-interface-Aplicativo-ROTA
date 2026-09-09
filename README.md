@@ -17,7 +17,7 @@
 - [John Igor Gomes Rocha](https://github.com/Johnrochag)
 - [Kauã Felipe Souza Rezende](https://github.com/kafe-pro)
 - [Lucas de Souza Barbosa](https://github.com/LucasdeSouzab)
-- Samira Martins Tolentino D’Amato
+- [Samira Martins Tolentino D’Amato](https://github.com/SamiraMartinsT)
 - San-diego Maciel Martins
 
 # Telas
