@@ -68,14 +68,4 @@
 | #3 | Inter |      16 |
 
 ## Cores
-`#0d5022`
-`#ffffff`
-`#fefefe`
-`#939191`
-`#dae9d7`
-`#000000`
-`#ef4444`
-`#9c9c9c`
-`#d4d4d5`
-`#58ca3f`
-`#ffffff`
+<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/e2ba5843-68d8-40a7-819c-32a591041b2c" />
