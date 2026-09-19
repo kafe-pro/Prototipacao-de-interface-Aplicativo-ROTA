@@ -69,3 +69,10 @@
 
 ## Cores
 <img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/e2ba5843-68d8-40a7-819c-32a591041b2c" />
+
+# Acessibilidade
+## Para a empresa
+  Todo o design da interface para a empresa foi pensado para ser compatível com a funcionalidade 'TalkBack' dos dispositivos Android, utilizando o conceito de 'deslizar e clicar'. Dessa forma, garantimos que pessoas com dificuldades visuais possam utilizar o app com facilidade, sem encontrar obstáculos.
+
+## Para o entregador
+  Para os entregadores, desenvolvemos uma interface tátil pensada especificamente para pessoas com problemas auditivos. Assim, em situações que exigem atenção, o aplicativo vibra o dispositivo e envia alertas por notificação para alertá-los.
